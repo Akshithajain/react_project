@@ -1,0 +1,23 @@
+body{
+	background-color:#AFF4E1;
+}
+#first{
+	background-color: #1F9A58;
+	margin:10%;
+	display: flex;
+	justify-content: space-around;
+
+}
+.second{
+	background-color:#F4AFEC;
+	margin:4%;
+	box-shadow: 5% 5% 5% 5%; 
+	text-align: center;
+	border-radius: 5%;
+	box-shadow: 5px 5px 5px 5px;
+}
+img{
+	border-radius: 2%;
+    margin:3%;
+
+}
